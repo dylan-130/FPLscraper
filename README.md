@@ -1,6 +1,6 @@
 # Fantasy Premier League (FPL) Data Scraper
 
-This project is a Python-based asynchronous scraper designed to fetch player data from the Fantasy Premier League (FPL) API. Leveraging the `aiohttp` library, the scraper efficiently handles large-scale data requests while managing rate limits and connection issues. The scraped data includes details about players, their team names, and unique player IDs, which can be used for analysis, integration, or further development.
+This project is a Python-based asynchronous scraper designed to fetch player data from the Fantasy Premier League (FPL) API. Leveraging the `aiohttp` library, the scraper efficiently handles large-scale data requests while managing rate limits and connection issues. The scraped data includes details about players, their team names, and unique player IDs, which can be used for analysis, or integration with a further piece of software (as in my case).
 
 ---
 
