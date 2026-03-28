@@ -171,8 +171,6 @@ async def main():
 
 
 if __name__ == "__main__":
-    # Force unbuffered output by setting PYTHONUNBUFFERED=1 or using python -u
-    # Also ensure that you're running in a real terminal, not a silent environment.
     try:
         asyncio.run(main())
     except KeyboardInterrupt:
